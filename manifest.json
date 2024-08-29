@@ -39,7 +39,7 @@
     }
   ],
   "short_name": "Color Hound",
-  "description": "Generate & style beautiful QRCode images directly from your Mac",
+  "description": "Generate customizable color palettes from any image",
   "start_url": "/",
   "display": "standalone"
 }
