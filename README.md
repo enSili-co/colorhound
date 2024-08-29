@@ -1,7 +1,7 @@
 <p align=center>
-  <img height="150px" src="https://github.com/enSili-co/qr wizard/raw/main/images/logo.png"/>
+  <img height="150px" src="https://github.com/enSili-co/color hound/raw/main/images/logo.png"/>
 </p>
-<h1 align=center>QR Wizard for Mac</h1>
+<h1 align=center>Color Hound for Mac</h1>
 <p align=center>
   QR Code styling + generation<br/>made ultra-fun and easy
 </p>
