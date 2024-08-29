@@ -3,7 +3,7 @@
 </p>
 <h1 align=center>Color Hound for Mac</h1>
 <p align=center>
-  QR Code styling + generation<br/>made ultra-fun and easy
+  Detect + export color palettes<br/>from your images - instantly!
 </p>
 
 
