@@ -11,7 +11,7 @@
 
 # Download for free (3-day trial)
 
-▶︎ https://ensili.co/download/colorhound/colorhound-1.8.zip
+▶︎ https://cdn.ensili.co/app/colorhound/download/colorhound-1.8.zip
 
 # Official Website
 
